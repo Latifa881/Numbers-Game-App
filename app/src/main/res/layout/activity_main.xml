@@ -52,6 +52,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginRight="5dp"
             android:ems="20"
+            android:maxLength="2"
             android:layout_weight="3"
             android:textSize="20dp"
             android:maxLines="1"
